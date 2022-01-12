@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite basico carga]">
+  <parameter name="tester-name" value="Quique"/>
+  <test thread-count="5" name="Probar la cuenta de ocurrencias(failed)">
+    <classes>
+      <class name="tudai.testng.test.ProgramaTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="afterClass"/>
+          <include name="afterSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeClass"/>
+          <include name="addMuchasProgramaciones"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- tudai.testng.test.ProgramaTest -->
+    </classes>
+  </test> <!-- Probar la cuenta de ocurrencias(failed) -->
+</suite> <!-- Failed suite [Suite basico carga] -->

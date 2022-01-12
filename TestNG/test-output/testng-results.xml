@@ -1,0 +1,1727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="85" passed="82" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-21T17:53:16 ART" name="Default suite" finished-at="2021-10-21T17:53:16 ART" duration-ms="754">
+    <groups>
+    </groups>
+    <test started-at="2021-10-21T17:53:16 ART" name="Default test" finished-at="2021-10-21T17:53:16 ART" duration-ms="754">
+      <class name="tudai.testng.test.ProgramaTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeSuite" finished-at="2021-10-21T17:53:16 ART" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeTest" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeClass" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addMuchasProgramaciones(int)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="addMuchasProgramaciones" finished-at="2021-10-21T17:53:16 ART" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMuchasProgramaciones -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addProgramacion()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="addProgramacion" finished-at="2021-10-21T17:53:16 ART" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProgramacion -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="eliminarProgramaciones()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="eliminarProgramaciones" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eliminarProgramaciones -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="fTestProvider(java.lang.Integer,java.lang.String)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="fTestProvider" data-provider="dp" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fTestProvider -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="fTestProvider(java.lang.Integer,java.lang.String)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="fTestProvider" data-provider="dp" finished-at="2021-10-21T17:53:16 ART" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fTestProvider -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="getCantOcurrencias()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="getCantOcurrencias" finished-at="2021-10-21T17:53:16 ART" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCantOcurrencias -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="getCantProgramaciones()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="getCantProgramaciones" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCantProgramaciones -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="getCantTareasEntre()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="getCantTareasEntre" finished-at="2021-10-21T17:53:16 ART" duration-ms="6" status="FAIL">
+          <exception class="java.lang.RuntimeException">
+            <message>
+              <![CDATA[Test not implemented]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.RuntimeException: Test not implemented
+at tudai.testng.test.ProgramaTest.getCantTareasEntre(ProgramaTest.java:105)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.RuntimeException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCantTareasEntre -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="programaVacio()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="programaVacio" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="FAIL">
+          <exception class="java.lang.RuntimeException">
+            <message>
+              <![CDATA[Test not implemented]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.RuntimeException: Test not implemented
+at tudai.testng.test.ProgramaTest.programaVacio(ProgramaTest.java:110)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.RuntimeException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- programaVacio -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="removeProgramacion()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="removeProgramacion" finished-at="2021-10-21T17:53:16 ART" duration-ms="3" status="FAIL">
+          <exception class="java.lang.RuntimeException">
+            <message>
+              <![CDATA[Test not implemented]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.RuntimeException: Test not implemented
+at tudai.testng.test.ProgramaTest.removeProgramacion(ProgramaTest.java:116)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.RuntimeException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeProgramacion -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea17]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea19]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea22]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea26]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea27]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea28]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea29]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea31]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea32]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea33]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea34]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea35]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea36]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea37]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea38]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testTareeas(java.lang.Object)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testTareeas" data-provider="gen-rand" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tarea39]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTareeas -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Juan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pedro]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Maria]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cecilia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Carlos]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jose]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Quique]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Juan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pedro]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Maria]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cecilia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Carlos]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jose]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Quique]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Juan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pedro]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Maria]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cecilia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Carlos]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jose]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Quique]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Juan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pedro]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Maria]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cecilia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Carlos]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jose]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Quique]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Juan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pedro]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Maria]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cecilia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Carlos]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jose]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="beforeMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testUsr(tudai.testng.src.Usuario)[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="testUsr" data-provider="generador-usr" finished-at="2021-10-21T17:53:16 ART" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Quique]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsr -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterMethod" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterClass" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:16 ART" name="afterTest" finished-at="2021-10-21T17:53:16 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:tudai.testng.test.ProgramaTest@505fc5a4]" started-at="2021-10-21T17:53:17 ART" name="afterSuite" finished-at="2021-10-21T17:53:17 ART" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- tudai.testng.test.ProgramaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

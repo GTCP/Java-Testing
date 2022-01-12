@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-11T19:07:47 ART" name="Default suite" finished-at="2021-11-11T19:08:08 ART" duration-ms="21033">
+    <groups>
+    </groups>
+    <test started-at="2021-11-11T19:07:47 ART" name="Default test" finished-at="2021-11-11T19:08:08 ART" duration-ms="21033">
+      <class name="Compragamer">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Compragamer@5403f35f]" started-at="2021-11-11T19:07:47 ART" name="launchBrowser" finished-at="2021-11-11T19:07:50 ART" duration-ms="2660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="loadPage()[pri:1, instance:Compragamer@5403f35f]" started-at="2021-11-11T19:07:50 ART" name="loadPage" finished-at="2021-11-11T19:07:55 ART" duration-ms="4634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method signature="searchProduct()[pri:2, instance:Compragamer@5403f35f]" started-at="2021-11-11T19:07:55 ART" name="searchProduct" finished-at="2021-11-11T19:08:04 ART" duration-ms="9441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="finishTest()[pri:3, instance:Compragamer@5403f35f]" started-at="2021-11-11T19:08:04 ART" name="finishTest" finished-at="2021-11-11T19:08:08 ART" duration-ms="4226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+      </class> <!-- Compragamer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
